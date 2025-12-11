@@ -1,0 +1,59 @@
+{
+  "title": "Контакты",
+  "intro": "Готовы обсудить ваш следующий проект? Свяжитесь с нашей командой — предложим безопасные и зрелищные решения под ваш график и бюджет.",
+  "contactMethods": [
+    { "icon": "call", "title": "Телефон", "value": "+7 (999) 123-45-67" },
+    { "icon": "mail", "title": "Email", "value": "contact@kepastunt.com" },
+    { "icon": "location_on", "title": "Адрес офиса", "value": "123 Movie Set Ave, Film City, 90210" }
+  ],
+  "form": {
+    "title": "Отправьте нам сообщение",
+    "fields": [
+      { "name": "name", "label": "Ваше имя", "placeholder": "Введите ваше имя", "type": "text" },
+      { "name": "email", "label": "Ваш Email", "placeholder": "Введите ваш email", "type": "email" },
+      { "name": "phone", "label": "Ваш телефон", "placeholder": "Введите ваш телефон", "type": "tel" },
+      {
+        "name": "topic",
+        "label": "Тема",
+        "type": "select",
+        "options": ["Запрос на постановку трюков", "Сотрудничество", "Общий вопрос"]
+      },
+      { "name": "message", "label": "Сообщение", "placeholder": "Ваше сообщение...", "type": "textarea" }
+    ],
+    "submitLabel": "Отправить"
+  },
+  "socialTitle": "Следите за нами",
+  "social": [
+    {
+      "label": "Telegram",
+      "href": "#",
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuBY43KRTqvXAf0KhWhq4UfBu51kbIp7va5duTUW7bQ4-81iRTgU1gk-qzFl818wyhZ-ll5zKcJ0PnwzfKESEYsKFBwBG6vqWC_zpeqm3HbEueU1RYOgGT2mBl66dP_g2yK20lZ7RP7wVcwklkUbDdjWG1i21GpFW-X6nELw93WOvwQa_SYeHDm7PBodabZjHXmNrouEa4khCtyHPqbkueCvIjtkkNrDWR5GI8lVEOiw8zLZS2Sre7vciUBFxN1LT0mVwUOC_giFBeQ"
+    },
+    {
+      "label": "WhatsApp",
+      "href": "#",
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuD2_QsdK3GWwuJHGPe0wwx_T3zEqmmZKHH9kpQjoHaczqbDA06Ib4csL1eDlAMkLgeJDisDp-uRjVbR8dYx7Vj4MU_5FW8PBoxSY8A_NipRdngYCu8o3GvJ3tapmO9-yOGv4E7XPYfUe6CM3Kvym7atkpCssN_TGuiKENlNqJoWLfWZS8Yb1HmirZvcWgZsvsnLC8K1o_4WYk0PWdvFGK886QBKUxNAHPE5PZJt1z-ypVK67s-8gwWcXrQbnP2VxQXl7anBGYrUWKA"
+    },
+    {
+      "label": "Instagram",
+      "href": "#",
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuDv2x5prERmFausncqaAbGR-ldufF-Y4amqqvaxM5wM0M3TMjcc2-tFV2nPGJmGcXZcN6u0cw0g1Af1s_0xR-ahtS96JczuvYKWho5CDliAHqr0GlGRpmchY5CGvPVtb9vkOegAlESnNI5vhmkuuGfHQDFzfd9jubUtFXNX1-UvXYQQvHNEKZylLN7WOAgR5Wfd--oy8jhyYGTxeySwu05NIJEGYdJLtjEMl3c7a3659LLQd_KNCzu4flOMyv6xLXKZfoNo9NUf9Ro"
+    },
+    {
+      "label": "YouTube",
+      "href": "#",
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuC8jS2WD_opyahB0z1sW_edqBxpDImz4MxuHeC99NVqdzAn0KsB8p2fBhsn7M9QgX5jCrGWap-VkjhURLN6m0zHNlGgCrtkHcqPaCxKvCXAn07RTPT_3-dTVLLH_lcQJ1osLzw_FrjuXiOSShur0pdHi_DXAr-W50HhAalziyCktwLI34GPyFM8uJNt-UJ0xjip-BYouy-hl5d_ODI7OrZWq4YJIe1mphH1zObc1aqby8GQbgccmpg5dSdzKKxQ96AGVjk-tP6Zi14"
+    },
+    {
+      "label": "Vimeo",
+      "href": "#",
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuDMfkVIkaPPBi5Igyt1_sp4Zjjcr9J_vR-Guatnqcimjnh0TVzFaenz-AQG4XLNhun5-cve_KpFYZx4b6Cx6PRsm4f4nsxwW5Tm-Dmmq8B9VRp2WIxbRb5AGtI17N6NZ2ekQ7yR3Frt-7N1Rb-4rqWFNGugROm27D7pm8uw-L35foBFGKJpg83QktxUnADp82EZI6EPQC5gYunDm9WyZYrcPbcGmEmSCFQIB5gftAvG-Zj4zxnarCXnybuRG5CqrsetV94textVMiM"
+    },
+    {
+      "label": "Facebook",
+      "href": "#",
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuDQQw1X9SGgLM2LN4VZ-V5TLka080C-CcNK9Xn_ec5GTyNZ1lT_Cx3FOTWE-KP7EqQycGhr19BCoHJdZ0ct3UColACSkdjvni3CK71mw4xvHvnzAxy--Vy20uPZ9UC2LRfMnac9VAQWRqSTtTNxrU1m4dBcNpSfzJMXF7mqLBm0qz0AleDqnkKU4YWd-06x8u_pCkfQT1K5in10RhnVp61-As9Y4L7H7egeMxkOmgF9QJI2Q_pWe1MFmnW-dVeeb4GR3rX1g1qfr5c"
+    }
+  ]
+}
+

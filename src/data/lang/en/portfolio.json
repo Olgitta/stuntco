@@ -1,0 +1,23 @@
+{
+  "title": "Портфолио",
+  "description": "Подборка проектов, где мы отвечали за трюки, спецэффекты и координацию экшн-сцен.",
+  "projects": [
+    {
+      "title": "Cybernetic Showdown",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBreiV4f3tAz6bLFdrZujy02eDQFUCqgUStlvunFUDHyg1N4RFQeqTV_yv8eiPoNzI0UEImx2wGIAdYif1ZOJCqy6mxDNWyhCzxzfhQhuZJusnKs8KzYpm12xiHWwmuDcCU25gwV5KxKObcqXPX7tOywVqTmlp5HgvxVqz4O8uEEIER5Gt4PhseIFpLUVozV3-0KVqS8hfnrYdqdva3FD-huIuK_0eNo6Sng7eOQLtUihtYHM0bWM21t-zbchyOYsO49l7RGzTgko0"
+    },
+    {
+      "title": "The Last Kingdom",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAFReR8fNYeQTJOl7dEPV9_1phLH59e1b4-Zs2ENhGocM-rbFTMEQd7tVwfVdt-5pvEvjJA1zhvDE7i3OygKrqWbXir_l1GWjxbjhvJqZRA-06LBUEa4jYtSM84ILyOb7wrb_gWD1wev8uje6fBmVI56uqYCMHFUI7Sf6c9sP5CqWYk2WKKoJQ16-IcsX82PeNTCZtLk6fY_FdegYj1IyK_l_AXIMvnsU6PjlD9UPPgYrNVTMb5_G2K3_-_KWIM3dMj97jejBWAxqc"
+    },
+    {
+      "title": "Ocean's Fury",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCSVJyX6BdWM7DC8xVdwWJ0j_NeEBYe44qCRpwlazl8GkIPh2zFL8QDxPPfOwdFCLt5RT7UyFDC0Ig9UVGX7VpAyYEsmw4Rs_R2bc5H-HB6qCsSdx5t7bujCxRQrl0utwSylsj4U3j18uRqz_obhtAuq_KDD-5BCfcsoCVWL9iQy0CVJ3wnAzWWw4YReSe7WrkUJUZOqfpbQ8AhX-JqkH4YahwbO72uWM-BDGJuWLQwGabqoj_kdSegZt-FSmQxHpq4j44QneZvcrI"
+    },
+    {
+      "title": "Midnight Protocol",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCI8d2I3dUb3vKrD7YwYdtkvUThs5Hw02oLUNkniVsFPiOQFYKXUEEiA6FzSSHGOIJJ204v0OFNF5VKidk-X4nra1azMe7beIHqHp8LErTuCsPJUWGVshSsMxVlpRxkg4zYGaqb1IUiINmVJBcaqgaewGjN7_OhkWv4Tm3dkSnpmL5O-teDItHXKC-mVHkMwt38_KSiZndkj54NsZkoNR4MXh9w8jcL30HxjxHcGTgQHvjea8Hur_Yhdif5tpS7JC6xK1ne_92Uje0"
+    }
+  ]
+}
+

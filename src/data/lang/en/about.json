@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "title": "О нашей команде",
+    "subtitle": "Мы воплощаем в жизнь самые смелые идеи, создавая захватывающие моменты в кино.",
+    "buttonLabel": "Связаться с нами",
+    "backgroundImage": "linear-gradient(rgba(16,25,34,0.45), rgba(16,25,34,0.75)), url('https://lh3.googleusercontent.com/aida-public/AB6AXuDePq_m99Z-fda7zVFFyAHLo_ydDIGz4YPqJGq30JQu2t4QoSPe8PfOmp6AsZBF05Xg6KYrGpg1jfULuDOU_MTMM90Up5w_fiz4JiDmXF1oT1VxQXP0ezcpYjXdMy2iMjjhr5TASNi3SqwSpdtjAIkn-6BQoSvZ0eM44YXjCay6oJ1aGOAFGUJqXFV1JpzYQRyof9G91YMpR4cPffkl0uuzUb41hQHeePAdqiM2uXtsxI0g-Nto6psFDRRDPYglcX2rMqjwkSB9XT8')"
+  },
+  "story": {
+    "title": "Наша история и миссия",
+    "description": "Мы начали путь небольшой командой энтузиастов. Сегодня мы — ведущая команда профессионалов, раздвигающая границы возможного и обеспечивающая высочайший уровень безопасности на площадке."
+  },
+  "storyBlocks": [
+    {
+      "title": "Путь к успеху",
+      "text": "От первых шагов до крупных проектов мирового уровня — мы гордимся каждой главой нашего роста.",
+      "image": "url('https://lh3.googleusercontent.com/aida-public/AB6AXuDbyHtBCh_PwD3BMA8pVE04xnxPokTQEFmW1g1tbxfWGd-yWwrxt3Z7CME4cRzHN9ePm_lHDvKaj2tOCbKnL3-kUkRCHK7MPRUqRjpGah9fGvlMo1gCOkpkT47PsV67m7FZoErV8VyxCaeYC9nIJRfVvLR5x6UAPiu5eVzMDYR9Q2YIuJg33ZJUdB_iDzAqriXXfyrGYD_qQQwjiEInEWTN2I2GnKpvsSjrGY4uvN2dIMejmNxPHPMip_qkJxIXgh7OYd99_kSAQ_M')"
+    },
+    {
+      "title": "Наше видение",
+      "text": "Создавать незабываемые и безопасные трюки, которые становятся культовыми моментами в кино.",
+      "image": "url('https://lh3.googleusercontent.com/aida-public/AB6AXuCem4fb9If5ZyuRBndNR7BxZt4agcI2ezoGAZuqGjhQzr6xwtElo5cCO7qIwL-xfJZ6s_FQN7njzcd-K9ISp9GAwiYks0Y3VY5gyN7lCYHLaUbVXf43gF1Dv3-uaqkePEdIcRAS7GwFJHJBfih0unCSpAK0Bc5DrzGpLNUMhOv34BcG_HZdql4s-YBf9H2cgpqfYqA7v_wme1xuhsT6WaU3cPTi370iEHE9GWvwCO_DAye6Xws9O1BCRDZhmYQDn8NYVWkv4f6Bevw')"
+    }
+  ],
+  "valuesTitle": "Наши ключевые ценности",
+  "values": [
+    { "icon": "security", "title": "Безопасность", "text": "Безопасность актеров и съемочной группы — наш главный приоритет." },
+    { "icon": "lightbulb", "title": "Инновации", "text": "Используем передовые технологии и оборудование для уникальных спецэффектов." },
+    { "icon": "auto_awesome", "title": "Креативность", "text": "Каждый проект — шанс создать что-то новое и захватывающее." },
+    { "icon": "groups", "title": "Командная работа", "text": "Слаженная команда гарантирует успех самых сложных постановок." }
+  ],
+  "teamTitle": "Команда профессионалов",
+  "teamDescription": "Познакомьтесь с экспертами, которые воплощают магию кино в реальность.",
+  "team": [
+    {
+      "name": "Алекс Джонсон",
+      "role": "Главный постановщик трюков",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDA-lPxkn48FUHjFZ57YAiOG8WrnzE-9FgXuFOFHf6_aOU7pDXqO-DNttu-AdKWjCfPTTmN0cVlQ3o5oDZFGIYc3U4bzdXn_bfmGdq7Sy28qwOa0KodXY1Wq4J-JHf8wEcAMolMOX6_gim9RTMoE_yV12DVBTq4QK-Ki-b0mteUEahvUir3zHGEOEjpvAHkU8k4a_-nVtxMR-RzFFAp3epwogZdAKSlp8YezJNr3KAhcD_zANlzCV3ALYvdGTbn9HTm5c71KIUhSUA"
+    },
+    {
+      "name": "Мария Гарсия",
+      "role": "Координатор спецэффектов",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAgbv_ROwnPfSlB-WQK8W1zvL95jT75rOwB8T3HVwP6LD6O2Yq0tBBjNcxPIC0R-fg7Tn4U7DbfS-V4LSgZtCcvJmtF1ENJ3PPICVsCmu2Q8-XHg6T5RbCX0OoazZ3yVxOzaZAww7m9Jm78MeUaxmSJ1_J-BVFPth0LcDXHKChQiJHvjxS_s8nHhyoY0Wv2I809eozn5C6WHf9gK5p0vR0LHHE0TOqA0qM49ReTzK2AkQqmM9mAmACBVOTXbp4aEfHJmuI-EJJwQHI"
+    },
+    {
+      "name": "Чен Вей",
+      "role": "Ведущий каскадер",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCZvCDc1FRoWB5sD0qfZ0qauWzp16RpVUXK1QbI6dgo2AZPZ8UnLPmiB2ZuHScqD1SBK3Njn7IDepnooywSTNfgcf1olp6FsvYQhHO35bIXRLJOnerZSVgTJ_fnnREwg9MU7MiTr7Qqx_67U7yGub_P6K1Tywdw0y7PZZ2jgyqbzWUITaTTBPu9Q3t7KmsPZc3ix3XisZ9RyvUhBkkEQPqjVC5NXqe_1aUoqeGZZbR-fNWrMH33w7Z--6sklrAStqr5Lmg53zFGF7I"
+    },
+    {
+      "name": "Дэвид Смит",
+      "role": "Эксперт по пиротехнике",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDQ6KxmbQ5MS429YXAbb3lPk9PD1adIJT48Hr8wqVtV0ki_5jpOkWD4KaaCDLs77ZXUuPI0kylXDKLgzDKN4VI3ivR7-KLHFJDKTFp_cfKWle_u_n1KdELWFKc179RMKxQZdt3tSnrjLMp7rjzN33owrPHbprbU5AKtrYXdM1W-k4izn46OJJ4yLeZH3NGLB_hvi5vYkkfxVqi_5ZE4YVEFvTbooJylbOPlPktbUYszYNUFgBcemRCDFgJAJ6hUbql4MT-8ZrxNisI"
+    }
+  ],
+  "cta": {
+    "title": "Готовы реализовать вашу идею?",
+    "description": "Свяжитесь с нами, чтобы обсудить следующий проект. Мы готовы принять любой вызов и создать незабываемые сцены.",
+    "buttonLabel": "Обсудить проект"
+  }
+}
+
