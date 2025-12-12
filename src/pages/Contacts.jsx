@@ -1,7 +1,7 @@
 import contactsRu from '../data/lang/ru/contacts.json'
 import contactsEn from '../data/lang/en/contacts.json'
 
-const Contacts = ({ lang = 'ru' }) => {
+const Contacts = ({ lang = 'en' }) => {
   const contacts = lang === 'en' ? contactsEn : contactsRu
 
   return (

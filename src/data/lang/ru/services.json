@@ -1,22 +1,42 @@
 {
-  "title": "Услуги",
-  "description": "Комплексная поддержка от разработки трюков до полного продакшена экшн-сцен.",
+  "title": "Наши услуги",
+  "description": "Комплексная поддержка на всех этапах — от разработки трюков до полного продакшена экшен-сцен.",
   "services": [
     {
-      "title": "Постановка трюков",
-      "description": "Высотные падения, хореография боев, точное вождение и многое другое.",
-      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCcysebxYINfvuHMzS1CuEwJyLli6jfIvOsy-Plitf30R_mgMbfcbBXfbYHHwZQ1RKfCH1v3rsjIfSGUOVf81T8qpABVHCtROZ7d5AoMG5AQu9koIDPdD12MO1Sni6KMlnvpqRv_0FH1e6SMP7hozeLBS578dGmg8_W-FwFz_dX9z1RG0L0cZhiwYU8Bd29iKRxNL3WgNTItn4nCIDAdvQnKnpoOphnEvXMy9ST5N4OuS-6KVy6GwK59J8w-Ux-uZpEDFLXh3n5AL0"
+      "title": "Координация трюков",
+      "description": "Полное планирование, контроль и безопасная реализация сложных экшен-сцен."
     },
     {
-      "title": "Координация трюков",
-      "description": "Тщательное планирование и безопасное выполнение сложных экшн-сцен.",
-      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKssn7p8h997akkDX8T5_-THMjzqZy0snHjsCwBAF6jIR5Z7DH5f6E4N2jMzwDGfnl7sGmjIECM-twYRnIIa8EA2tCia1KIRskLXFUXq-17f2YgH1UtYS_VpSlFhI80Kb6jMTZmKna_cleOn-RJx4U7CpPlkPRBHwfYzjBEua6j1Lge46YY_jDMsECjn2m1w3NJLCb2Omy-35kzWxpTLiaMSYLH6f5LKmkXWVoX-XuHSzAtxUP1Hbtu6NGL_end6rsDbkYxxTmSmU"
+      "title": "Постановка и выполнение трюков",
+      "description": "Высотные падения, постановка боёв, точное вождение и динамичные трюки для любых проектов."
+    },
+    {
+      "title": "Постановка боёв",
+      "description": "Реалистичная и кинематографичная хореография боёв для кино, ТВ и театра.",
+      "image": "fight.jpg"
+    },
+    {
+      "title": "Авто- и мототрюки",
+      "description": "Профессиональные авто- и мототрюки: точное управление, дрифты, прыжки, аварии и погонные сцены.",
+      "image": "cars.jpg"
+    },
+    {
+      "title": "Трюковый риггинг",
+      "description": "Подвесные системы, «полетки», страховочные решения и спецконструкции для опасных сцен.",
+      "image": "Rigging.jpg"
+    },
+    {
+      "title": "Оборудование и безопасность",
+      "description": "Сертифицированное трюковое оборудование, страховочные системы и специалисты по безопасности на площадке.",
+      "image": "equip.jpg"
     },
     {
       "title": "Спецэффекты",
-      "description": "От практической пиротехники до новаторских визуальных эффектов.",
-      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBODWfq4c9OFkbWCi9IdWqlXvazCll1l9Izhh0ApvmW2MMHUFTmt8UTMnQUpiST7nFKHY1ADie63GAI0P7ebuonITVkxuRIOZeIYW8jQlrqE5aOamRoGp0SPxQyINGyyqi3kOzn81xLTIV3q8ihW605YMhGPD5jkfGIBAq6gEEm-0J_0h-wjlACzrelVRmD_pV35bU9V1LrpVl8TkCtq9fF9fEGYiAzEewZNr6C1_ZMpYn16aNaCwPfzp_mLnCRyDlkxOtWjg1sotY"
+      "description": "Практические эффекты, контролируемая пиротехника, атмосферные эффекты и консультации по VFX."
+    },
+    {
+      "title": "Трюковые мастер-классы и обучение",
+      "description": "Обучающие программы для актёров, студентов, режиссёров и профессионалов — от базовых навыков до продвинутых трюков."
     }
   ]
 }
-

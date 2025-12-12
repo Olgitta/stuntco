@@ -1,7 +1,7 @@
 const VideoPlayer = ({ videoId, title = 'Video player', className = '', autoplay = false }) => {
   if (!videoId) return null
 
-  const params = autoplay ? `?autoplay=1&mute=1&loop=1&playlist=${videoId}` : ''
+  const params = autoplay ? `?autoplay=0&mute=1&loop=1&playlist=${videoId}` : ''
   const embedUrl = `https://www.youtube.com/embed/${videoId}${params}`
 
   return (

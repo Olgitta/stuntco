@@ -1,13 +1,12 @@
 {
   "brand": "Kepa Stunt Production",
   "navItems": [
-    { "label": "Услуги", "path": "/services" },
-    { "label": "Портфолио", "path": "/portfolio" },
+    { "label": "Наши услуги", "path": "/services" },
     { "label": "О нас", "path": "/about" },
     { "label": "Контакты", "path": "/contacts" }
   ],
   "tagline": "Создание кинематографического экшена.",
-  "footerNote": "© 2024 Kepa Stunt Production. Все права защищены.",
+  "footerNote": "© 2024 Kepa Stunt Production.",
   "socialLabels": ["Instagram", "YouTube"]
 }
 

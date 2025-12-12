@@ -6,9 +6,39 @@
     "backgroundImage": "linear-gradient(rgba(16,25,34,0.45), rgba(16,25,34,0.75)), url('https://lh3.googleusercontent.com/aida-public/AB6AXuDePq_m99Z-fda7zVFFyAHLo_ydDIGz4YPqJGq30JQu2t4QoSPe8PfOmp6AsZBF05Xg6KYrGpg1jfULuDOU_MTMM90Up5w_fiz4JiDmXF1oT1VxQXP0ezcpYjXdMy2iMjjhr5TASNi3SqwSpdtjAIkn-6BQoSvZ0eM44YXjCay6oJ1aGOAFGUJqXFV1JpzYQRyof9G91YMpR4cPffkl0uuzUb41hQHeePAdqiM2uXtsxI0g-Nto6psFDRRDPYglcX2rMqjwkSB9XT8')"
   },
   "story": {
-    "title": "Наша история и миссия",
-    "description": "Мы начали путь небольшой командой энтузиастов. Сегодня мы — ведущая команда профессионалов, раздвигающая границы возможного и обеспечивающая высочайший уровень безопасности на площадке."
+    "title": "How We Make the Impossible Happen",
+    "description": "We began as a small group of passionate enthusiasts. Today, we are a leading professional stunt team, pushing the boundaries of what’s possible and ensuring the highest level of safety on set."
   },
+  "aboutus": [
+    "Our team provides complete stunt solutions — from high-precision choreography to on-set safety supervision — ensuring that every sequence is executed safely, creatively, and at the highest professional standard.",
+    "We specialize in challenging environments, supplying trained safety experts and professional equipment for work in extreme locations: mountains, caves, underwater, and in the air.",
+    "Kepa Stunts also offers specialized stunt workshops and training programs for students, actors, directors, and industry professionals who want to deepen their skills and understanding of action filmmaking."
+  ],
+  "valuesTitle": "Our Core Values",
+  "values": [
+    {
+      "icon": "security",
+      "title": "Safety",
+      "text": "The safety of actors and crew is our top priority in every project."
+    },
+    {
+      "icon": "lightbulb",
+      "title": "Innovation",
+      "text": "We use advanced technologies and modern equipment to create unique effects and complex action sequences."
+    },
+    {
+      "icon": "auto_awesome",
+      "title": "Creativity",
+      "text": "Every project is an opportunity to craft something new, exciting, and memorable."
+    },
+    {
+      "icon": "groups",
+      "title": "Teamwork",
+      "text": "A cohesive team ensures the success of even the most challenging stunt productions."
+    }
+  ],
+  "teamTitle": "Professional Team",
+  "teamDescription": "Meet the experts who bring cinematic action to life.",
   "storyBlocks": [
     {
       "title": "Путь к успеху",
@@ -21,15 +51,6 @@
       "image": "url('https://lh3.googleusercontent.com/aida-public/AB6AXuCem4fb9If5ZyuRBndNR7BxZt4agcI2ezoGAZuqGjhQzr6xwtElo5cCO7qIwL-xfJZ6s_FQN7njzcd-K9ISp9GAwiYks0Y3VY5gyN7lCYHLaUbVXf43gF1Dv3-uaqkePEdIcRAS7GwFJHJBfih0unCSpAK0Bc5DrzGpLNUMhOv34BcG_HZdql4s-YBf9H2cgpqfYqA7v_wme1xuhsT6WaU3cPTi370iEHE9GWvwCO_DAye6Xws9O1BCRDZhmYQDn8NYVWkv4f6Bevw')"
     }
   ],
-  "valuesTitle": "Наши ключевые ценности",
-  "values": [
-    { "icon": "security", "title": "Безопасность", "text": "Безопасность актеров и съемочной группы — наш главный приоритет." },
-    { "icon": "lightbulb", "title": "Инновации", "text": "Используем передовые технологии и оборудование для уникальных спецэффектов." },
-    { "icon": "auto_awesome", "title": "Креативность", "text": "Каждый проект — шанс создать что-то новое и захватывающее." },
-    { "icon": "groups", "title": "Командная работа", "text": "Слаженная команда гарантирует успех самых сложных постановок." }
-  ],
-  "teamTitle": "Команда профессионалов",
-  "teamDescription": "Познакомьтесь с экспертами, которые воплощают магию кино в реальность.",
   "team": [
     {
       "name": "Алекс Джонсон",

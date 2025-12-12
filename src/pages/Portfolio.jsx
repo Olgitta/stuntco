@@ -1,7 +1,7 @@
 import portfolioRu from '../data/lang/ru/portfolio.json'
 import portfolioEn from '../data/lang/en/portfolio.json'
 
-const Portfolio = ({ lang = 'ru' }) => {
+const Portfolio = ({ lang = 'en' }) => {
   const portfolioData = lang === 'en' ? portfolioEn : portfolioRu
 
   return (

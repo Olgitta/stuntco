@@ -1,22 +1,45 @@
 {
-  "title": "Услуги",
-  "description": "Комплексная поддержка от разработки трюков до полного продакшена экшн-сцен.",
+  "title": "Our Services",
+  "description": "Comprehensive support at every stage — from stunt design to full-scale action scene production.",
   "services": [
     {
-      "title": "Постановка трюков",
-      "description": "Высотные падения, хореография боев, точное вождение и многое другое.",
-      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCcysebxYINfvuHMzS1CuEwJyLli6jfIvOsy-Plitf30R_mgMbfcbBXfbYHHwZQ1RKfCH1v3rsjIfSGUOVf81T8qpABVHCtROZ7d5AoMG5AQu9koIDPdD12MO1Sni6KMlnvpqRv_0FH1e6SMP7hozeLBS578dGmg8_W-FwFz_dX9z1RG0L0cZhiwYU8Bd29iKRxNL3WgNTItn4nCIDAdvQnKnpoOphnEvXMy9ST5N4OuS-6KVy6GwK59J8w-Ux-uZpEDFLXh3n5AL0"
+      "title": "Stunt Coordination",
+      "description": "Full planning, supervision, and safe execution of complex action sequences."
     },
     {
-      "title": "Координация трюков",
-      "description": "Тщательное планирование и безопасное выполнение сложных экшн-сцен.",
-      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKssn7p8h997akkDX8T5_-THMjzqZy0snHjsCwBAF6jIR5Z7DH5f6E4N2jMzwDGfnl7sGmjIECM-twYRnIIa8EA2tCia1KIRskLXFUXq-17f2YgH1UtYS_VpSlFhI80Kb6jMTZmKna_cleOn-RJx4U7CpPlkPRBHwfYzjBEua6j1Lge46YY_jDMsECjn2m1w3NJLCb2Omy-35kzWxpTLiaMSYLH6f5LKmkXWVoX-XuHSzAtxUP1Hbtu6NGL_end6rsDbkYxxTmSmU"
+      "title": "Stunt Performance",
+      "description": "High falls, fight choreography, precision driving, and dynamic stunt work for any production.",
+      "image": "cdn/stuntperf.jpg"
     },
     {
-      "title": "Спецэффекты",
-      "description": "От практической пиротехники до новаторских визуальных эффектов.",
-      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBODWfq4c9OFkbWCi9IdWqlXvazCll1l9Izhh0ApvmW2MMHUFTmt8UTMnQUpiST7nFKHY1ADie63GAI0P7ebuonITVkxuRIOZeIYW8jQlrqE5aOamRoGp0SPxQyINGyyqi3kOzn81xLTIV3q8ihW605YMhGPD5jkfGIBAq6gEEm-0J_0h-wjlACzrelVRmD_pV35bU9V1LrpVl8TkCtq9fF9fEGYiAzEewZNr6C1_ZMpYn16aNaCwPfzp_mLnCRyDlkxOtWjg1sotY"
+      "title": "Fight Scenes",
+      "description": "Realistic and cinematic fight choreography for film, TV, and theatre.",
+      "image": "cdn/fights.jpg"
+    },
+    {
+      "title": "Car & Bike Stunts",
+      "description": "Professional vehicle stunts, precision driving, crashes, drifts, jumps, and chase sequences.",
+      "image": "cdn/cars.jpg"
+    },
+    {
+      "title": "Stunt Rigging",
+      "description": "Wire work, flying rigs, safety systems, and specialized setups for high-risk scenes.",
+      "image": "cdn/Rigging.jpg"
+    },
+    {
+      "title": "Equipment & Safety",
+      "description": "Certified stunt gear, safety equipment, and on-set safety experts for extreme conditions.",
+      "image": "cdn/equip.jpg"
+    },
+    {
+      "title": "Special Effects",
+      "description": "Practical effects, controlled pyrotechnics, atmospheric effects, and VFX consulting.",
+      "image": "cdn/specef.jpg"
+    },
+    {
+      "title": "Stunt Workshops & Training",
+      "description": "Training programs for actors, students, directors, and professionals — from basics to advanced stunt skills.",
+      "image": "cdn/training.jpg"
     }
   ]
 }
-
